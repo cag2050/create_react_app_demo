@@ -1,5 +1,5 @@
 ### 项目说明
-1. 已运行命令：`npm run eject`
+1. 已运行命令：`npm run eject`，将配置文件导出到了项目中。
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
