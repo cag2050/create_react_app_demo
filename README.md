@@ -1,3 +1,6 @@
+### 项目说明
+1. 已运行命令：`npm run eject`
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
